@@ -1,0 +1,13 @@
+.play-again-button {
+  color: #223a5b;
+  font-family: 'Bree Serif';
+  text-align: center;
+  font-size: 14px;
+  background-color: #ffffff;
+  border-radius: 4px;
+  width: 120px;
+  height: 28px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
